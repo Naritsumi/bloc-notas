@@ -1,0 +1,4 @@
+CUIDADO
+
+La aplicación deja de funcionar correctamente si insertamos fechas fuera del formato "YYYY-MM-DD",
+para arreglar algún posible fallo en la base de datos sería necesario reinstalar la aplicación.

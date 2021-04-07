@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="ver_notas_guardadas">Ver Notas Guardadas</string>
+    <string name="introducir_nueva_nota">Introducir Nueva Nota</string>
+    <string name="tareas">Tareas</string>
+    <string name="otra">Otra</string>
+    <string name="categoria">CATEGORIA</string>
+    <string name="guardar_nota">Guardar nota</string>
+    <string name="inserte_la_fecha">Inserte la fecha</string>
+    <string name="filtrar">Filtrar</string>
+    <string name="fecha_inicio">Fecha Inicio</string>
+    <string name="fecha_fin">Fecha Fin</string>
+    <string name="resultados">Resultados</string>
+</resources>

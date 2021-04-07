@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="ver_notas_guardadas">See Notes Saved</string>
+    <string name="introducir_nueva_nota">Write New Notes</string>
+    <string name="tareas">Tasks</string>
+    <string name="otra">Others</string>
+    <string name="categoria">CATEGORY</string>
+    <string name="guardar_nota">Save notes</string>
+    <string name="inserte_la_fecha">Inserte date</string>
+    <string name="filtrar">Filtrar</string>
+    <string name="fecha_inicio">Fecha Inicio</string>
+    <string name="fecha_fin">Fecha Fin</string>
+    <string name="resultados">Resultados</string>
+
+
+
+
+
+
+
+
+
+</resources>
